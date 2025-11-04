@@ -5,7 +5,7 @@ A project demonstrating recommendation algorithms using Google Colab and Loom.
 My second data science project created during my internship at Labmentix.
 
 ### 📽️ Project Explanation Video
-[Watch on Loom](paste-your-loom-link-here)
+[Watch on Loom]https://www.loom.com/share/3be1602905b54a54b5b15349402edb4b
 
 ### 🧠 Project Overview
 In this project, I used Google Colab to build a simple recommendation system that suggests movies based on user preferences.  
